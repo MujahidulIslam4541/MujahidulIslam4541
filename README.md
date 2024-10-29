@@ -2,9 +2,6 @@
 ### Hi there 👋, my name Mujahidul Islam Rifat
 #### I am Junior web Developer
 
-🌟 Mujahidul Islam Rifat 🌟
-Aspiring Front-End Developer 
-
 With a diploma in Computer Science and Technology (CST) and hands-on training from Programming Hero, I am dedicated to crafting dynamic, visually captivating web interfaces. Focused on front-end development, I bring creativity, attention to detail, and a commitment to responsive design in each project. Eager to deliver intuitive, user-friendly experiences Let's collaborate to bring ideas to life!
 
 Skills:    HTML / CSS/Bootstrap/Tailwind/ Javascript / React
