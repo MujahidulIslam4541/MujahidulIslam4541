@@ -20,6 +20,12 @@
 
 ###
 
+###
+
+<p align="left">📚 I'm currently learning Nodejs<br>🎯 Goals: ...My goal is to become a skilled full-stack developer by 2025, mastering both front-end and back-end technologies to build complete, dynamic web applications.<br>🎲 Fun fact: ... I Love sleep</p>
+
+###
+
 <h4 align="left">I code with</h4>
 
 ###
