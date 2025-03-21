@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" width="1000" src="[https://i.ibb.co.com/PzTZpcqb/Whats-App-Image-2024-01-17-at-16-51-18-494a785a.jpg](https://i.ibb.co.com/rKwsLxhZ/Black-and-White-Gradient-Personal-Linked-In-Banner.png)"  />
+  <img height="400" width="1000" src="https://i.ibb.co.com/PzTZpcqb/Whats-App-Image-2024-01-17-at-16-51-18-494a785a.jpg](https://i.ibb.co.com/rKwsLxhZ/Black-and-White-Gradient-Personal-Linked-In-Banner.png"  />
 </div>
 
 ###
