@@ -39,8 +39,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongoose" height="30" alt="mongoose logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
