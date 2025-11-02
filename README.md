@@ -8,7 +8,13 @@
 
 ###
 
-<p align="left">I am a frontend-focused MERN stack developer with strong skills in React, JavaScript, Tailwind, and modern UI design. I have experience building responsive, user-friendly applications and integrating them with backend APIs using Node.js, Express, and MongoDB. My goal is to create seamless digital experiences while expanding my full-stack development expertise.</p>
+<p align="left"> I’m a passionate and detail-oriented <b>Frontend-Focused MERN Stack Developer</b> with a strong foundation in modern web technologies. I specialize in building responsive, interactive, and visually appealing web applications using <b>React, Next.js, JavaScript (ES6), Tailwind CSS, and DaisyUI</b>.
+
+I also have hands-on experience with backend technologies like <b>Node.js, Express.js, MongoDB, and Mongoose</b>, enabling me to create powerful full-stack applications with smooth API integrations. My projects often include <b>Firebase Authentication, JWT, and Nodemailer</b> for secure and efficient user management.
+
+I’m constantly learning and exploring new ways to improve user experience and code efficiency. My goal is to build clean, maintainable, and scalable web solutions that make a real impact.
+
+</p>
 
 ###
 
