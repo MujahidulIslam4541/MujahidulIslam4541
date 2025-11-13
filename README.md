@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1lhP0GfrMVDr7VJ8DXwp5-_UrkyjuxI7I/view?usp=sharing"  />
+  <img height="200" src="https://www.linkedin.com/in/mujahidul-islam-rifat/overlay/background-image"  />
 </div>
 
 ###
