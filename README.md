@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/fKgN3gp/Mujahidul-Islam-20250805-214933-0000.png"  />
+  <img height="400" src="https://i.ibb.co.com/fKgN3gp/Mujahidul-Islam-20250805-214933-0000.png"  />
 </div>
 
 ###
