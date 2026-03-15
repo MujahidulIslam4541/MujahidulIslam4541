@@ -8,12 +8,18 @@
 
 ###
 
-<p align="left"> I’m a passionate and detail-oriented <b>Frontend-Focused MERN Stack Developer</b> with a strong foundation in modern web technologies. I specialize in building responsive, interactive, and visually appealing web applications using <b>React, Next.js, JavaScript (ES6), Tailwind CSS, and DaisyUI</b>.
-
-I also have hands-on experience with backend technologies like <b>Node.js, Express.js, MongoDB, and Mongoose</b>, enabling me to create powerful full-stack applications with smooth API integrations. My projects often include <b>Firebase Authentication, JWT, and Nodemailer</b> for secure and efficient user management.
-
-I’m constantly learning and exploring new ways to improve user experience and code efficiency. My goal is to build clean, maintainable, and scalable web solutions that make a real impact.
-
+<p align="left">
+I'm a passionate and detail-oriented <b>Frontend-Focused MERN Stack Developer</b> with hands-on experience building and shipping <b>production-level web applications</b>. I specialize in crafting responsive, interactive, and visually compelling user experiences using modern web technologies.
+<br><br>
+My core frontend stack includes <b>React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, shadcn ui, and Redux</b> — and I back it up with solid backend skills in <b>Node.js, Express.js, MongoDB, Mongoose, Socket.IO, and Laravel Echo</b> for building powerful full-stack solutions.
+<br><br>
+I have successfully delivered <b>3 production-level projects</b> at my workplace:
+<br><br>
+🔵 <b>ChannelGum</b> — A platform where content creators can list and sell their social media channels (YouTube, TikTok, Instagram, and more). Sellers post their channel details and statistics, while buyers can securely browse and purchase channels via <b>cryptocurrency payments</b>.<br>
+🏕️ <b>Adventures Rental</b> — A hill-station car rental web application with a smooth booking and real-time availability experience.<br>
+🎓 <b>Study Pal</b> — An AI-powered Irish education platform where users can generate quizzes with AI, chat in groups in real time, and get instant answers via an AI assistant — similar to ChatGPT. I led the entire frontend for all AI-integrated features.
+<br><br>
+I'm constantly learning and exploring new technologies to write cleaner, more scalable code. My goal is to build impactful, maintainable web solutions that make a real difference.
 </p>
 
 ###
@@ -41,11 +47,17 @@ I’m constantly learning and exploring new ways to improve user experience and 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=socketio" height="30" alt="socketio logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
   <img width="12" />
@@ -63,7 +75,6 @@ I’m constantly learning and exploring new ways to improve user experience and 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
 </div>
-
 
 ###
 
