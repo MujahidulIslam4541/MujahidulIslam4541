@@ -16,7 +16,9 @@ My core frontend stack includes <b>React, Next.js, TypeScript, JavaScript (ES6+)
 I have successfully delivered <b>3 production-level projects</b> at my workplace:
 <br><br>
 🔵 <b>ChannelGum</b> — A platform where content creators can list and sell their social media channels (YouTube, TikTok, Instagram, and more). Sellers post their channel details and statistics, while buyers can securely browse and purchase channels via <b>cryptocurrency payments</b>.<br>
+  
 🏕️ <b>Adventures Rental</b> — A hill-station car rental web application with a smooth booking and real-time availability experience.<br>
+
 🎓 <b>Study Pal</b> — An AI-powered Irish education platform where users can generate quizzes with AI, chat in groups in real time, and get instant answers via an AI assistant — similar to ChatGPT. I led the entire frontend for all AI-integrated features.
 <br><br>
 I'm constantly learning and exploring new technologies to write cleaner, more scalable code. My goal is to build impactful, maintainable web solutions that make a real difference.
@@ -56,8 +58,6 @@ I'm constantly learning and exploring new technologies to write cleaner, more sc
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=socketio" height="30" alt="socketio logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
   <img width="12" />
