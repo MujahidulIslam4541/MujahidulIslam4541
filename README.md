@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hello👋! My name is Muahidul Islam Rifat</h2>
+<h2 align="left">Hello👋! I'm Muahidul Islam Rifat</h2>
 
 ###
 
