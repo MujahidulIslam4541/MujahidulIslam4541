@@ -9,12 +9,17 @@
 ###
 
 <p align="left">
-I'm a passionate and detail-oriented <b>Frontend-Focused MERN Stack Developer</b> with hands-on experience building and shipping <b>production-level web applications</b>. I specialize in crafting responsive, interactive, and visually compelling user experiences using modern web technologies.
+I'm a <b>Frontend-Focused MERN Stack Developer</b> who loves turning ideas into fast, 
+beautiful, and production-ready web experiences. I bring strong attention to detail and a 
+deep passion for writing clean, scalable code that truly makes an impact.
 <br><br>
-My core frontend stack includes <b>React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, shadcn ui, and Redux</b> — and I back it up with solid backend skills in <b>Node.js, Express.js, MongoDB, Mongoose, Socket.IO, and Laravel Echo</b> for building powerful full-stack solutions.
+On the frontend, I work with <b>React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, 
+shadcn/ui, and Redux</b> — building responsive, interactive interfaces that users enjoy. 
+On the backend, I rely on <b>Node.js, Express.js, MongoDB, Mongoose, Socket.IO, and Laravel Echo</b> 
+to power robust, full-stack solutions.
 <br><br>
-I have successfully delivered <b>3 production-level projects</b> at my workplace:
-<br><br>
+I have successfully delivered <b>some production-level projects</b> at my workplace:
+  
 🔵 <b>ChannelGum</b> — A platform where content creators can list and sell their social media channels (YouTube, TikTok, Instagram, and more). Sellers post their channel details and statistics, while buyers can securely browse and purchase channels via <b>cryptocurrency payments</b>.<br>
   
 🏕️ <b>Adventures Rental</b> — A hill-station car rental web application with a smooth booking and real-time availability experience.<br>
